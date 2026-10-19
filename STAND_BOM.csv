@@ -1,4 +1,0 @@
-Part / Item,Description,Quantity,Unit,Material,Unit Cost (USD),Total Cost (USD),Notes
-STAND body,Main stand component — confirm the material and manufacturing method from the actual design,1,piece,To be confirmed,,,Enter the actual material cost; do not use an unverified estimate
-Additional hardware,"Include only if the STAND design uses separate fasteners, pads, hinges, or other hardware",,,If applicable,,,Remove this row if the stand is a single-piece design
-TOTAL,Total project material cost,,,,,,Fill in actual costs to calculate the total
